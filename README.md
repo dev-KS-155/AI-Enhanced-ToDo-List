@@ -39,4 +39,4 @@ We'd love to hear your thoughts and suggestions! Feel free to [submit an issue](
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache-2.0 license](LICENSE).
